@@ -2,7 +2,12 @@
 
 # Exercise 1
 def count_characters(text):
-    # Write your code here
+    a=input("")
+    count=0
+    for i in a:
+        count+=1
+    print(count)
+
     pass
 
 # Exercise 2
